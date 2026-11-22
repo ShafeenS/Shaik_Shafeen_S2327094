@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bent arrow: diversion. Drawn by the student from basic shapes (original work, released CC0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M4,21 L4,10 L14,10 L14,5 L21,12 L14,19 L14,14 L8,14 L8,21 Z" />
+</vector>

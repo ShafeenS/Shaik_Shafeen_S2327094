@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Crate on the road: obstruction. Drawn by the student from basic shapes (original work, released CC0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M3,7 L21,7 L21,20 L3,20 Z M5,9 L19,9 L19,18 L5,18 Z M6.5,10 L8,10 L18,17 L16.5,17 Z" />
+</vector>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No-entry sign: road closed. Drawn by the student from basic shapes (original work, released CC0). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp" android:height="24dp"
+    android:viewportWidth="24" android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M2,12 A10,10 0 1,0 22,12 A10,10 0 1,0 2,12 Z M6,10.5 L18,10.5 L18,13.5 L6,13.5 Z" />
+</vector>
